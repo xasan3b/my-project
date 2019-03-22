@@ -1,0 +1,33 @@
+body
+{
+	background: url(background.jpg);
+	background-color:silver;
+	background-repeat: no-repeat;
+	
+	
+}
+img{
+	width: 200px ;
+	height: 200px;
+	border-radius: 50%;
+	display:  block;
+	margin-right: auto;
+	margin-left: auto;
+	border-style: solid;
+	border-color: red;
+	
+
+}
+h1 {
+	background-position: center;
+	text-align: center;
+	border-style: solid;
+	color: red;
+	border-radius: 85%;
+	
+}
+h2 {
+	text-align: left;
+	color:red;
+	
+}
